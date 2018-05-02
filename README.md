@@ -2,4 +2,4 @@
 # Завдання
 Життя
 # Скріншот
-<br>![Image alt](https://github.com/jon/coolproject/raw/master/image/image.png)<br>
+![Image alt](https://github.com/Valientin/Kurzhiy_KPP_lab_1/raw/master/img/screen_2.PNG)<br>
